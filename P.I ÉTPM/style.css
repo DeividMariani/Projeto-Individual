@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    border: 2px solid white;
+    background-color: burlywood;
+}
+
+.navbar ol {
+    display: flex;
+    
+}
